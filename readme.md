@@ -1,3 +1,5 @@
+Magic: the Gathering LLM RAG Rulings
+
 Ollama RAG implementation of MTG Rules.
 
 LLMs will pull rulings that are parsed from forums, such as Reddit.
